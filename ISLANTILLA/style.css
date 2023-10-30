@@ -1,0 +1,21 @@
+/*COMENTARIO*/
+*{
+    font-size: 12px;
+    
+}
+
+h1{
+    font-size: 24px;
+} 
+
+h2{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 16px;
+}
+
+span{
+    font-style: italic; /*AHORA MISMO PARA LAS CURSIVAS DE VEASE TAMBIEN*/
+}

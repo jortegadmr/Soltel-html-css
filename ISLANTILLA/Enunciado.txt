@@ -1,0 +1,11 @@
+1) Extraer el contenido en TXT de la página
+
+	https://onlinetexttools.com/extract-text-from-html
+	
+	https://es.wikipedia.org/wiki/Islantilla
+
+2) Crear el HTML islantilla-wikipedia.html
+
+3) Maquetar con etiq. semánticas
+
+4) Crear el CS S externo y poner alguna regla islantilla.css
